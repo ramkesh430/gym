@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "FORGE · Earn it.",
+      "hasCanvas": false,
+      "bodyTextLen": 2842,
+      "bodyTextHash": "7ed8a50ec2befb648805643d706e3c120afefbb463673d535b540b3eca5b3409",
+      "bodyTextPrefix": "SKIP TO THE FLOOR FORGE CREED PROGRAMS COACHES MEMBERSHIP VISIT ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "FORGE · Earn it.",
+      "hasCanvas": false,
+      "bodyTextLen": 2812,
+      "bodyTextHash": "8c36da722e21b9340bb672f08479612830a1932d7dcd68542077f7a8b7c3cc50",
+      "bodyTextPrefix": "SKIP TO THE FLOOR FORGE Open menu LUMBINI · SINCE 2017 FORGE Ear",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
